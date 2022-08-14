@@ -1,4 +1,8 @@
-### Hola Nico, todo bien? 👋
+### Hola gente, todo bien? 👋 
+
+💬 Me dicen Sam, actualmente trabajo y en mi tiempo libre estudio ingenieria en computación en la Untref ademas estoy haciendo el curso de full stack en python de Codo a codo.
+
+
 
 <!--
 **SamuelAlejandroCastro/SamuelAlejandroCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
